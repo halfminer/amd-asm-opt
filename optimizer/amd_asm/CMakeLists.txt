@@ -1,0 +1,1 @@
+add_library(amd_asm AsmFile.h AsmFile.cpp)
